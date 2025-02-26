@@ -1,0 +1,3 @@
+Adel,999,078282,python,beginner,Adel Mohammed Zeinab,adelmohamad214@gmail.com,0507564288,Malaysia,M,January,2004-03-13,md,40,tuesday
+Ali,888,087272,java,advanced,Ali Mohammed Zeinab,alimohamad214@gmail.com,050275979,UAE,M,May,2003-10-10,mohammed,20,SUNDAY
+Aziz,777,078888,c++,intermediate,Aziz Mohammed Zeinab,azizmohamad214@gmail.com,050342353,Syria,M,October,2000-1-1,mohd,30,monday

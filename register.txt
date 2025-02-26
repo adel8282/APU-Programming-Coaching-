@@ -1,0 +1,3 @@
+mohammed,3434,advanced,java,A1,20,SUNDAY
+mohd,2323,intermediate,c++,B1,30,monday
+md,3232,beginner,python,C1,40,tuesday
